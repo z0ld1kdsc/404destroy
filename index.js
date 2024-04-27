@@ -39,7 +39,7 @@ client.on('ready', () => {
     console.log(`     ██║╚██████╔╝     ██║`.yellow);
     console.log(`     ╚═╝ ╚═════╝      ╚═╝`.yellow);
     console.log(`────────────────────────────────────────────────────────────────────`.blue);
-    console.log(`|-->  Developped by Kays`.blue);
+    console.log(`|-->  Developped by z0ld1k & Kays`.blue);
     console.log(`────────────────────────────────────────────────────────────────────`.blue);
     console.log(`|-->  Name : ${client.user.username}`.blue);
     console.log(`|──────────────────────────────────────────────────────────────────|`.blue);
